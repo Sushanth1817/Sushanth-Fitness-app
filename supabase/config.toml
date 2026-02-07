@@ -1,0 +1,7 @@
+project_id = "thqmulblgmjnvdbcthff"
+
+[functions.fitness-chat]
+verify_jwt = false
+
+[functions.elevenlabs-voice-token]
+verify_jwt = false
